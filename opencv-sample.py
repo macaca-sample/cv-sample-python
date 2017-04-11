@@ -8,7 +8,7 @@ class opencvSample:
     def __init__(self, sourceimage):
         self.sourceimage = sourceimage
 
-    def match(self,templateimage, threshold=0.8):
+    def match(self, templateimage, threshold=0.8):
         image = cv2.imread(self.sourceimage)
         template = cv2.imread(templateimage)
         result = cv2.matchTemplate(image, template, cv2.TM_CCOEFF_NORMED)
