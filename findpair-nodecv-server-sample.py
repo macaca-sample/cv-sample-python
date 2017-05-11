@@ -31,6 +31,6 @@ class nodecvSample:
 if __name__ == '__main__':
     sample = nodecvSample('http://localhost:9900')
     print sample.getresult({
-        'file1': ('nodecv_button.png', open('./fixture/nodecv_button.png', 'rb'), 'image/jpeg', {'Expires': '0'}),
-        'file2': ('nodecv_page.png', open('./fixture/nodecv_page.png', 'rb'), 'image/jpeg', {'Expires': '0'})
+        'image1': ('T-Shirt-logo.jpg', open('./fixture/T-Shirt-logo.jpg', 'rb'), 'image/jpeg', {'Expires': '0'}),
+        'image2': ('T-Shirt.jpg', open('./fixture/T-Shirt.jpg', 'rb'), 'image/jpeg', {'Expires': '0'})
     })
