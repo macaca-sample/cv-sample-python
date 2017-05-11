@@ -1,6 +1,6 @@
 # cv-sample-python
 
-## installation
+## Installation
 ``` bash
 $ pip install -r requirements.txt
 ```
