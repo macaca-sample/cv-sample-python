@@ -21,5 +21,5 @@ class opencvSample:
 if __name__ == '__main__':
     matcher = opencvSample('./fixture/T-Shirt.jpg')
     for item in ['./fixture/T-Shirt-logo.jpg', './fixture/logo.png']:
-        print item, matcher.match(item)
+        print(item, matcher.match(item))
 
