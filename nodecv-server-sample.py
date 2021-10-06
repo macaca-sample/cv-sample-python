@@ -17,7 +17,7 @@ class nodecvSample:
 
 if __name__ == '__main__':
     sample = nodecvSample('http://localhost:9900')
-    print sample.getresult({
+    print(sample.getresult({
         'image1': ('T-Shirt-logo.jpg', open('./fixture/T-Shirt.jpg', 'rb'), 'image/jpeg', {'Expires': '0'}),
         'image2': ('T-Shirt.jpg', open('./fixture/T-Shirt-logo.jpg', 'rb'), 'image/jpeg', {'Expires': '0'})
-    })
+    }))
