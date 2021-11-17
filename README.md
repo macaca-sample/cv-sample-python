@@ -36,11 +36,11 @@ $ git-contributor
 
 ## Contributors
 
-|[<img src="https://avatars1.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|[<img src="https://avatars3.githubusercontent.com/u/870082?v=4" width="100px;"/><br/><sub><b>Chenxin</b></sub>](https://github.com/Chenxin)<br/>|[<img src="https://avatars3.githubusercontent.com/u/356347?v=4" width="100px;"/><br/><sub><b>loftyet</b></sub>](https://github.com/loftyet)<br/>|
+|[<img src="https://avatars.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|[<img src="https://avatars.githubusercontent.com/u/870082?v=4" width="100px;"/><br/><sub><b>Chenxin</b></sub>](https://github.com/Chenxin)<br/>|[<img src="https://avatars.githubusercontent.com/u/356347?v=4" width="100px;"/><br/><sub><b>liangjun-jiang</b></sub>](https://github.com/liangjun-jiang)<br/>|
 | :---: | :---: | :---: |
 
 
-This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Sat Aug 03 2019 16:17:26 GMT+0800`.
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Thu Nov 18 2021 01:01:06 GMT+0800`.
 
 <!-- GITCONTRIBUTOR_END -->
 
